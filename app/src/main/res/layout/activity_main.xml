@@ -63,7 +63,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:gravity="center_horizontal|center_vertical"
-                android:text="70%"
+                android:text="71%"
                 android:textColor="#000000"
                 android:textSize="34sp"
                 android:textStyle="italic" />
