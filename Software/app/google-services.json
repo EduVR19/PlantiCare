@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387265342474",
+    "project_id": "plantcare-61ea9",
+    "storage_bucket": "plantcare-61ea9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387265342474:android:f56b9b242b1de9e36a83f3",
+        "android_client_info": {
+          "package_name": "com.example.plantcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387265342474-1ah0289p6sdgeinub1qgap8gkk36jenk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHWw_p7AncLedmtzjT3v5R3m_v2dzbhdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387265342474-1ah0289p6sdgeinub1qgap8gkk36jenk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

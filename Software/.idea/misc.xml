@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FACULTAD/7 SEMESTRE/PROYECTO INTEGRADOR/PROYECTO/PlantiCare/app/src/main/res/layout/activity_main.xml" value="0.15670289855072464" />
+        <entry key="..\:/Users/BIO/AndroidStudioProjects/PlantiCare-main/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.36875" />
+        <entry key="..\:/Users/BIO/AndroidStudioProjects/PlantiCare-main/app/src/main/res/drawable/custom_progress_bg.xml" value="0.36875" />
+        <entry key="..\:/Users/BIO/AndroidStudioProjects/PlantiCare-main/app/src/main/res/drawable/custom_progress_bg2.xml" value="0.36875" />
+        <entry key="..\:/Users/BIO/AndroidStudioProjects/PlantiCare-main/app/src/main/res/drawable/ic_launcher_background.xml" value="0.36875" />
+        <entry key="..\:/Users/BIO/AndroidStudioProjects/PlantiCare-main/app/src/main/res/drawable/notificacion_s.xml" value="0.36875" />
+        <entry key="..\:/Users/BIO/AndroidStudioProjects/PlantiCare-main/app/src/main/res/layout/activity_main.xml" value="0.28306159420289856" />
+        <entry key="..\:/Users/BIO/AndroidStudioProjects/PlantiCare-main/app/src/main/res/layout/notificacion.xml" value="0.28306159420289856" />
+        <entry key="..\:/Users/BIO/AndroidStudioProjects/PlantiCare-main/app/src/main/res/layout/notificacion2.xml" value="0.28306159420289856" />
+        <entry key="..\:/Users/BIO/AndroidStudioProjects/PlantiCare-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3828125" />
+        <entry key="..\:/Users/Eduardo/AndroidStudio/PlantiCare-main/app/src/main/res/drawable/ic_baseline_eco_24.xml" value="0.2911458333333333" />
+        <entry key="..\:/Users/Eduardo/AndroidStudio/PlantiCare-main/app/src/main/res/layout/activity_main.xml" value="0.1337386018237082" />
+        <entry key="..\:/Users/Eduardo/AndroidStudio/PlantiCare-main/app/src/main/res/layout/notificacion.xml" value="0.264" />
+        <entry key="..\:/Users/Eduardo/AndroidStudio/PlantiCare-main/app/src/main/res/layout/notificacion2.xml" value="0.264" />
+        <entry key="..\:/Users/sergi/Documents/GithubTest/PlantiCare/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
