@@ -19,6 +19,6 @@ recursos para obtener el mejor estado posible de la planta.
 ![App Screenshot](https://raw.githubusercontent.com/EduVR19/PlantiCare/main/Img/Mensaje_Noticiaci%C3%B3n.png)
 
 
-## Aplicación
+## Hardware
 ### Diagrama de conexiones
 ![App Screenshot](https://raw.githubusercontent.com/EduVR19/PlantiCare/main/Img/DiagramaDeConexiones_bb_pinEnable.png)
