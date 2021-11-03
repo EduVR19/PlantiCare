@@ -22,3 +22,8 @@ recursos para obtener el mejor estado posible de la planta.
 ## Hardware
 ### Diagrama de conexiones
 ![App Screenshot](https://raw.githubusercontent.com/EduVR19/PlantiCare/main/Img/DiagramaDeConexiones_bb_pinEnable.png)
+
+
+## Prototipo
+### Sistema general
+![App Screenshot](https://raw.githubusercontent.com/EduVR19/PlantiCare/main/Img/CircuitoFisico.jpeg)
